@@ -1,4 +1,4 @@
-FROM nginx:1.12
+FROM nginx:1.18.0
 LABEL maintainer="gzp@goozp.com"
 
 # set timezome
