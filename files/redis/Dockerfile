@@ -1,5 +1,5 @@
 FROM redis:3.2
-LABEL maintainer="gzp@goozp.com"
+LABEL maintainer="zlhackli@gmail.com"
 
 # set timezome
 ENV TZ=Asia/Shanghai

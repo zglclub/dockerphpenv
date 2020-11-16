@@ -1,5 +1,5 @@
 FROM php:7.2-fpm
-LABEL maintainer="gzp@goozp.com"
+LABEL maintainer="zlhackli@gmail.com"
 
 
 # set timezome

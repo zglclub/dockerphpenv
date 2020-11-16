@@ -46,9 +46,9 @@ services:
         - ./mysql/conf.d:/etc/mysql/conf.d:ro
       environment:
         MYSQL_ROOT_PASSWORD: 123456
-        MYSQL_DATABASE: zphaldb
-        MYSQL_USER: zphal
-        MYSQL_PASSWORD: zphal123
+        MYSQL_DATABASE: testdb
+        MYSQL_USER: testdb
+        MYSQL_PASSWORD: 123456
       restart: always
       command: "--character-set-server=utf8"
 
