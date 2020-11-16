@@ -1,6 +1,6 @@
 # PHPdockerfiles
 ## 简介
-docker php 环境构建
+docker php 环境构建 php开发环境 mysql+nginx+php+redis
 相关软件版本：
 - PHP 7.2
 - MySQL 5.7
