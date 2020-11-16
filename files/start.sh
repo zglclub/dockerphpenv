@@ -19,7 +19,7 @@ sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 
 sudo yum -y update
 sudo yum -y install epel-release
-sudo pip python -m pip install --upgrade pip
+sudo pip install --upgrade pip
 sudo yum -y install python-pip
 sudo pip install -U docker-compose
 docker-compose up
