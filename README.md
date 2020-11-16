@@ -4,7 +4,7 @@ docker php 环境构建 php开发环境 mysql+nginx+php+redis
 相关软件版本：
 - PHP 7.2
 - MySQL 5.7
-- Nginx 1.12
+- Nginx 1.8.0
 - Redis 3.2
 
 用到的 PHP 拓展(2020.11.16更新)：
