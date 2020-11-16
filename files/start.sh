@@ -1,5 +1,7 @@
 #! /bin/bash
 #install docker
+#install vim 
+sudo yum -y install vim
 sudo curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
 
 sudo systemctl start docker
